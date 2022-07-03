@@ -1,0 +1,25 @@
+{
+  "atletas": [
+    {
+      "nome": "Thyala",
+      "idade": "25",
+      "modalidade": "bike",
+      "pontos": "35",
+      "id": 3
+    },
+    {
+      "nome": "Julia",
+      "idade": "15",
+      "modalidade": "corrida",
+      "pontos": "65",
+      "id": 4
+    },
+    {
+      "nome": "Claudio",
+      "idade": "53",
+      "modalidade": "corrida",
+      "pontos": "86",
+      "id": 5
+    }
+  ]
+}
